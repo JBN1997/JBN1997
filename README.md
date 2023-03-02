@@ -3,7 +3,7 @@
 
 <p><strong>Name:</strong> JBN.</p>
 
-<p><strong>Bio:</strong> Full-stack engineer from Brazil with a passion for coding. I love taking on new challenges and exploring the latest technologies in the field.</p>
+<p><strong>Bio:</strong> Full-stack engineer with a passion for coding. I love taking on new challenges and exploring the latest technologies in the field.</p>
 
 <p><strong>Location:</strong> Brazil.</p>
 
