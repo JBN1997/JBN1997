@@ -26,8 +26,8 @@
 <p><strong>Languages:</strong></p>
 
 <li>Portuguese (Native).</li>
-<li>English (Intermediate).</li>
-<li>Spanish (Intermediate).</li>
+<li>English.</li>
+<li>Spanish.</li>
 <br>
 <p><strong>Programming languages, Frameworks and Tools:</strong></p>
 <p align="left">
