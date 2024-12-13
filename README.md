@@ -1,6 +1,3 @@
-<h2 align="center">Hello World! 👋</h2> <img src="https://komarev.com/ghpvc/?username=JBN1997&style=for-the-badge">
-
-
 <p><strong>Name:</strong> JBN.</p>
 
 <p><strong>Bio:</strong> Full-stack engineer with a passion for coding. I love taking on new challenges and exploring the latest technologies in the field.</p>
